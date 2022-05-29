@@ -1,0 +1,53 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+h1 {
+    color: rgb(119, 168, 233);
+    text-align: center;
+    margin-bottom: 50px;
+}
+.email {
+    margin-bottom: 20px;
+    width:100%;
+}
+.email input {
+    width: 80%;
+    height: 20px;
+    border-radius: 30px;
+    text-align:center;
+    padding: 0px;
+    border: 1px solid gray;
+}
+.pw {
+    margin-bottom: 20px;
+    width:100%;
+}
+.pw input {
+    width: 80%;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 0px;
+    border: 1px solid gray;
+}
+
+.submit input {   
+    height: 35px;
+    border: 0;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    background: linear-gradient(to right, rgb(181, 200, 233), rgb(8, 106, 233));
+    width:80% 
+    
+}
+#grid {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
