@@ -8,6 +8,7 @@ h1 {
     color: rgb(119, 168, 233);
     text-align: center;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 .email {
     margin-bottom: 20px;
@@ -18,7 +19,6 @@ h1 {
     height: 20px;
     border-radius: 30px;
     text-align:center;
-    padding: 0px;
     border: 1px solid gray;
 }
 .pw {
@@ -30,7 +30,6 @@ h1 {
     height: 20px;
     border-radius: 30px;
     text-align: center;
-    padding: 0px;
     border: 1px solid gray;
 }
 
