@@ -4,6 +4,12 @@
     padding: 0;
     box-sizing: border-box;  
 }
+.wrap{
+    
+    width: 600px; 
+    padding: 40px 50px;
+    margin: auto;
+}
 h1 {
     color: rgb(119, 168, 233);
     text-align: center;
